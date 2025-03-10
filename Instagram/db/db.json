@@ -1,0 +1,94 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "user":{
+                "id":101,
+                "username":"Ranbir",
+                "profile_pic":"src/assets/Ranbir.jpeg"
+            },
+            "image":"src/assets/gwagon.jpg",
+            "caption": "fav substance #gwagon",
+            "likes":1200,
+            "comments":[
+                {
+                    "user":"alice",
+                    "comments":"Wow Amazing"
+                },
+                {
+                    "user":"jhon",
+                    "comments":"Wow Amazing"
+                }
+            ],
+            "timestamp":"2024-12-01"
+        },
+        {
+            "id":2,
+            "user":{
+                "id":102,
+                "username":"Prabas",
+                "profile_pic":"src/assets/prabhas.webp"
+            },
+            "image":"src/assets/landmount.jpg",
+            "caption": "fav substance #gwagon",
+            "likes":1200,
+            "comments":[
+                {
+                    "user":"lee",
+                    "comments":"Wow Amazing"
+                },
+                {
+                    "user":"wick",
+                    "comments":"Wow Amazing nice"
+                }
+            ],
+            "timestamp":"2024-12-24"
+        },
+
+        {
+            "id":3,
+            "user":{
+                "id":103,
+                "username":"AlluArjun",
+                "profile_pic":"src/assets/AlluArjun.png"
+            },
+            "image":"src/assets/treeforest.jpg",
+            "caption": "fav substance #gwagon",
+            "likes":1200,
+            "comments":[
+                {
+                    "user":"Warner",
+                    "comments":"Wow Amazing nice"
+                },
+                {
+                    "user":"willioms",
+                    "comments":"Wow Amazing"
+                }
+            ],
+            "timestamp":"2024-12-01"
+        }
+
+    ],
+    "profile":{
+        "id":101,
+        "username":"Ranbir",
+        "profile_pic":"src/assets/Ranbir.jpeg"
+    },
+    "suggestions":[
+        {
+            "id":101,
+                "username":"Ranbir",
+                "profile_pic":"src/assets/Ranbir.jpeg"
+        },
+        {
+            "id":102,
+            "username":"Prabas",
+            "profile_pic":"src/assets/prabhas.webp"
+        },
+        {
+           "id":103,
+                "username":"AlluArjun",
+                "profile_pic":"src/assets/AlluArjun.png" 
+        }
+    ]
+}

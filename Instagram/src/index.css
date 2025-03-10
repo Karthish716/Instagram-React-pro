@@ -13,3 +13,17 @@
 .bi{
   margin-right: 10px;
 }
+
+.story{
+  height: 100px;
+}
+
+.dp{
+  height: 20px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.post{
+  width: 300px;
+}
