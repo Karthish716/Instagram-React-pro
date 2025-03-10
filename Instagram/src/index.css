@@ -27,3 +27,11 @@
 .post{
   width: 300px;
 }
+
+.suggestion h5 {
+  font-size: 16px;
+}
+
+.suggestion .dp{
+  margin-top: 0px !important;
+}
