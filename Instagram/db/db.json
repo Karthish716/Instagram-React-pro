@@ -90,5 +90,39 @@
                 "username":"AlluArjun",
                 "profile_pic":"src/assets/AlluArjun.png" 
         }
+    ],
+    "story":[
+        {
+            "id":1,
+            "user":{
+                "id":101,
+                "username":"Ranbir",
+                "profile_pic":"src/assets/Ranbir.jpeg"
+            },
+            "image":"src/assets/ss1.jpg"
+           
+        },
+        {
+            "id":2,
+            "user":{
+                "id":102,
+                "username":"Prabas",
+                "profile_pic":"src/assets/prabhas.webp"
+            },
+            "image":"src/assets/s2.jpg"
+           
+        },
+
+        {
+            "id":3,
+            "user":{
+                "id":103,
+                "username":"AlluArjun",
+                "profile_pic":"src/assets/AlluArjun.png"
+            },
+            "image":"src/assets/s3.jpg"
+            
+        }
+
     ]
 }
